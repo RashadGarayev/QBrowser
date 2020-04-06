@@ -4,6 +4,7 @@ Simply PyQt5 Browser
 <code>
   pip install -r requiments.txt
 </code>
+
 #### For Windows
 
 <code>
